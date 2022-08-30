@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="276.65625"
+   height="144"
+   viewBox="0 0 73.198627 38.1"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="屋内ユニット.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1"
+     inkscape:cx="-35"
+     inkscape:cy="103.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.764343,-22.967737)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.542221"
+       y="51.108658"
+       id="text2540"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
+         x="50.542221"
+         y="51.108658"
+         id="tspan32100">RC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.88218"
+       y="60.757679"
+       id="text2540-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
+         x="102.88218"
+         y="60.757679"
+         id="tspan32100-1">I</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.75164;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect42930"
+       width="50.048359"
+       height="37.348362"
+       x="44.140163"
+       y="23.343557" />
+  </g>
+</svg>
